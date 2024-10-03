@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a data scientist focused on solving impactful problems with practical, efficient solutions. My approach is to deeply understand the problem, weigh trade-offs like cost, time, and impact, and implement the best-fitting solution.
 
-I work with machine learning, large language models (LLMs), and computer vision to extract insights from data and drive decision-making across various fields. While I’ve done work in healthcare, improving operational efficiency and patient outcomes, my skills apply to any data-driven challenge.
+I work with machine learning, large language models (LLMs), and computer vision to extract insights from data and drive decision-making across various fields. While I have experience in the healthcare sector, I'm passionate about leveraging AI to create meaningful solutions across all domain.
 
 
 
